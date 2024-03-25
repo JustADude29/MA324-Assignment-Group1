@@ -1,6 +1,6 @@
 # MA 324 Assignment Group - 1 Submission
 
-## Topic: Misspecified Models (Sequential Learning)
+## Topic: Misspecified Models
 
 Install required Python packages first:
 
@@ -14,4 +14,4 @@ Group 1:
 - Gampa Sathvik 210123021
 - Pavan Adari 210123043
 
-Disclaimer: The work is just for exploration purpose. Any significant output can not be published or made commercialised without mentor's consent. You agree with the fact that it is fully mentor's discretion whether future extension of the work will bring you as a contributor.
+Disclaimer: The work is just for exploration purpose. Any significant output can not be published or made commercialised without mentor's consent. We agree with the fact that it is fully mentor's discretion whether future extension of the work will bring us as a contributor.
